@@ -1,0 +1,6 @@
+com\shoppersworld\Inventory\InventoryApplication.class
+com\shoppersworld\Inventory\model\Inventory.class
+com\shoppersworld\Inventory\dto\InventoryResponse.class
+com\shoppersworld\Inventory\service\InventoryService.class
+com\shoppersworld\Inventory\controller\InventoryController.class
+com\shoppersworld\Inventory\repository\InventoryRepository.class

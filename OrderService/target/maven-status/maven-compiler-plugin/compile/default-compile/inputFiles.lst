@@ -1,0 +1,10 @@
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\OrderServiceApplication.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\controller\OrderServiceController.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\dto\OrderItemRequest.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\dto\InventoryResponse.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\model\Order.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\repository\OrderServiceRepository.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\service\OrderService.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\dto\OrderRequest.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\config\WebClientConfig.java
+C:\Dev\ShopperWorldMicroservice\ShopperWorld\OrderService\src\main\java\com\shoppersworld\OrderService\model\OrderItems.java

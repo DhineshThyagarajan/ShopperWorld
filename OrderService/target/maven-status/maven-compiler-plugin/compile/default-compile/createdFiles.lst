@@ -1,0 +1,8 @@
+com\shoppersworld\OrderService\dto\OrderRequest.class
+com\shoppersworld\OrderService\model\OrderItems.class
+com\shoppersworld\OrderService\dto\OrderItemRequest.class
+com\shoppersworld\OrderService\service\OrderService.class
+com\shoppersworld\OrderService\OrderServiceApplication.class
+com\shoppersworld\OrderService\repository\OrderServiceRepository.class
+com\shoppersworld\OrderService\model\Order.class
+com\shoppersworld\OrderService\controller\OrderServiceController.class

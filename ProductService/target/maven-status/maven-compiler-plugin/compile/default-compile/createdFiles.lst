@@ -1,0 +1,10 @@
+com\shoperworld\ProductService\dto\ProductRequest.class
+com\shoperworld\ProductService\dto\ProductResponse.class
+com\shoperworld\ProductService\dto\ProductRequest$ProductRequestBuilder.class
+com\shoperworld\ProductService\model\Product.class
+com\shoperworld\ProductService\Repository\ProductRepository.class
+com\shoperworld\ProductService\dto\ProductResponse$ProductResponseBuilder.class
+com\shoperworld\ProductService\model\Product$ProductBuilder.class
+com\shoperworld\ProductService\ProductServiceApplication.class
+com\shoperworld\ProductService\Controller\ProductController.class
+com\shoperworld\ProductService\service\ProductService.class
